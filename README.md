@@ -1,2 +1,2 @@
-# opengraph | Data Science
+# Opengraph | Data Science
 Public repository about personal Data Science Project
